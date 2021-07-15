@@ -29,7 +29,7 @@
 /* Navbar styles */
 
 .nav-container {
-  background-image: url('/images/desktop/image-header.jpg');
+  background-image: url('./images/desktop/image-header.jpg');
   background-repeat: no-repeat;
   background-position: top;
   background-attachment: fixed;
